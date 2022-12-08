@@ -8,7 +8,7 @@ render_with_liquid: false
 ---
 &nbsp;
 
-<img width="488" alt="simple-ctf-logo" src="https://user-images.githubusercontent.com/95465072/206484544-e9745f6e-1788-48ea-b4b2-5e393216fa85.png">
+<img width="488" allign="center" alt="simple-ctf-logo" src="https://user-images.githubusercontent.com/95465072/206484544-e9745f6e-1788-48ea-b4b2-5e393216fa85.png">
 
 ## Enumeration
 
