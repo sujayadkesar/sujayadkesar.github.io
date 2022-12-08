@@ -71,48 +71,7 @@ ftp <target-ip>
 <img width="499" alt="ftp-loggedin-seession" src="https://user-images.githubusercontent.com/95465072/206484779-6dddad43-4e25-4757-b158-8bf5288891d0.png">
 
 
-```
-┌──(root㉿kali)-
-|
-[/home/local_host/Desktop/CTF/simple_ctf]
-└─# ftp 10.10.54.91
-Connected to 10.10.54.91.
-220 (vsFTPd 3.0.3)
-Name (10.10.54.91:local_host): anonymous
-230 Login successful.
-Remote system type is UNIX.
-Using binary mode to transfer files.
-ftp> ls
-229 Entering Extended Passive Mode (|||42246|)
-ftp: Can't connect to `10.10.54.91:42246': Connection timed out
-200 EPRT command successful. Consider using EPSV.
-150 Here comes the directory listing.
-drwxr-xr-x    2 ftp      ftp          4096 Aug 17  2019 pub
-226 Directory send OK.
-ftp> cd pub
-250 Directory successfully changed.
-ftp> ls
-200 EPRT command successful. Consider using EPSV.
-150 Here comes the directory listing.
--rw-r--r--    1 ftp      ftp           166 Aug 17  2019 ForMitch.txt
-226 Directory send OK.
-ftp> get ForMitch.txt
-local: ForMitch.txt remote: ForMitch.txt
-200 EPRT command successful. Consider using EPSV.
-150 Opening BINARY mode data connection for ForMitch.txt (166 bytes).
-100% |******************************************************************|   166        2.13 MiB/s    00:00 ETA
-226 Transfer complete.
-166 bytes received in 00:00 (0.53 KiB/s)
-ftp> exit
-221 Goodbye.
-                                                                                                               
-┌──(root㉿kali)-[/home/local_host/Desktop/CTF/simple_ctf]
-└─# cat ForMitch.txt
-Dammit man... you'te the worst dev i've seen. You set the same pass for the system user, and the password is so weak... i cracked it in seconds. Gosh... what a mess!
-                                                                                                               
-┌──(root㉿kali)-[/home/local_host/Desktop/CTF/simple_ctf]
-└─# 
-```
+
 
 ## HTTP
 
