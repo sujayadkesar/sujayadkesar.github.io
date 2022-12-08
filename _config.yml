@@ -21,34 +21,34 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Utkar5hM # the main title
+title: SUJAY_ADKESAR # the main title
 
-tagline: Blog / Writeups # it will display as the sub-title
+tagline: HackThebox / TryHackme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Blog / Writeups
+  walkthrough / Tryhackme
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://blog.utkar5hm.tk"
+url: "https://sujayadkesar.github.io"
 
 github:
-  username: utkar5hm # change to your github username
+  username: sujayadkesar # change to your github username
 
 twitter:
-  username: utkar5hm # change to your twitter username
+  username: SUJAY_ADKESAR # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Utkarsh M
+  name: SUJAY ADKESAR
   email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/utkar5hm # change to your twitter homepage
-    - https://github.com/utkar5hm # change to your github homepage
+    - https://twitter.com/SUJAY_ADKESAR # change to your twitter homepage
+    - https://github.com/sujayadkesar # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/utkar5hm
-    - https://www.linkedin.com/in/utkar5hm
+    - https://www.facebook.com/SUJAYADKESAR
+    - https://www.linkedin.com/in/sujay-adkesar-a90725224
 
 google_site_verification: # fill in to your verification string
 
