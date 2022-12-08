@@ -1,8 +1,8 @@
 ---
-title: Lame Writeup | HackTheBox Easy
+title: Meow Writeup | HackTheBox Easy
 date: 2022-10-02 00:00:02 +530
 categories: [Write Up, HackTheBox]
-tags: [write up, hackthebox, ctf, easy, red team] # TAG names should always be lowercase
+tags: [write up, hackthebox, ctf, easy, walkthrough, meow] # TAG names should always be lowercase
 
 
 ---
