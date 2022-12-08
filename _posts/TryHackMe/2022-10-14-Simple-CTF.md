@@ -2,7 +2,7 @@
 title: Simple CTF Walkthrough / Tryhackme
 author: cotes
 date: 2022-10-14 14:10:00 +0800
-categories: [TryHackMe, Simple-CTF]
+categories: [Write Up, TryHackMe]
 tags: [walkthrough, simple-ctf, vim, sqli,cms-made-simple]
 render_with_liquid: false
 ---
