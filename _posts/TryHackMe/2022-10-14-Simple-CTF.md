@@ -6,6 +6,9 @@ categories: [TryHackMe, Simple-CTF]
 tags: [walkthrough, simple-ctf, vim, sqli,cms-made-simple]
 render_with_liquid: false
 ---
+&nbsp;
+
+<img width="488" alt="simple-ctf-logo" src="https://user-images.githubusercontent.com/95465072/206484544-e9745f6e-1788-48ea-b4b2-5e393216fa85.png">
 
 ## Enumeration
 
@@ -64,8 +67,11 @@ ftp <target-ip>
 ```
 > type name as **anonymous**
 > go to pub directory and get ForMitch.txt
-
 ```                                                                                                            
+<img width="499" alt="ftp-loggedin-seession" src="https://user-images.githubusercontent.com/95465072/206484779-6dddad43-4e25-4757-b158-8bf5288891d0.png">
+
+
+
 ┌──(root㉿kali)-
 |
 [/home/local_host/Desktop/CTF/simple_ctf]
@@ -112,7 +118,9 @@ Dammit man... you'te the worst dev i've seen. You set the same pass for the syst
 
 - open target-ip on browser
 
-img
+<img width="506" alt="apache-loginpage" src="https://user-images.githubusercontent.com/95465072/206484907-5a703e09-fb7b-4eca-99f9-977e89ddda01.png">
+
+
 ## Directory Bruteforcing
 
 ```sh
@@ -144,9 +152,13 @@ Progress: 6156 / 220561 (2.79%)^C
 2022/12/08 07:25:22 Finished                              
 =============================================================== 
 ```
-- visit < target-ip>/simple
+
+visit < target-ip>/simple
+
+<img width="755" alt="cms-made-simple" src="https://user-images.githubusercontent.com/95465072/206485793-1784f900-dc48-43ad-a668-8f3a40fe36a0.png">
+
  
- image
+ 
 
 ## [ CMS Made Simple - CVE-2019-9053](https://sckull.github.io/posts/simplectfthm/#cms-made-simple---cve-2019-9053)
 
@@ -196,6 +208,10 @@ sudo vim -c ':!/bin/sh'
 ```
 > copy any one code and execute in mitch's machine!
 > navigate to root directory 
+
+<img width="425" alt="root-terminal" src="https://user-images.githubusercontent.com/95465072/206486022-22d2fa01-43d2-49dc-b757-4e21b1e99076.png">
+
+
 
 ## Answers
 
