@@ -67,11 +67,11 @@ ftp <target-ip>
 ```
 > type name as **anonymous**
 > go to pub directory and get ForMitch.txt
-```                                                                                                            
+                                                                                                          
 <img width="499" alt="ftp-loggedin-seession" src="https://user-images.githubusercontent.com/95465072/206484779-6dddad43-4e25-4757-b158-8bf5288891d0.png">
 
 
-
+```
 ┌──(root㉿kali)-
 |
 [/home/local_host/Desktop/CTF/simple_ctf]
