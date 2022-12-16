@@ -1,10 +1,4 @@
 ---
-title:  Writeup | HackTheBox Easy
-date: 2022-10-20 00:00:02 +440
-categories: [Write Up, HackTheBox]
-tags: [write up, hackthebox, ctf, easy, walkthrough, precious, machine] # TAG names should always be lowercase
-
----
 title: Precious walkthrough | HackTheBox | Easy
 date: 2022-10-21 00:00:02 +730
 categories: [Write Up, HackTheBox]
