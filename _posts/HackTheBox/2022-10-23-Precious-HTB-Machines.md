@@ -1,14 +1,20 @@
-
 ---
 title:  Writeup | HackTheBox Easy
 date: 2022-10-20 00:00:02 +440
 categories: [Write Up, HackTheBox]
 tags: [write up, hackthebox, ctf, easy, walkthrough, precious, machine] # TAG names should always be lowercase
 
+---
+title: Precious walkthrough | HackTheBox | Easy
+date: 2022-10-21 00:00:02 +730
+categories: [Write Up, HackTheBox]
+tags: [pdfkit, web, http, hackthebox, ctf, easy, walkthrough, precious] # TAG names should always be lowercase
+
 
 ---
 
 -------------------
+
 <img width="585" alt="pawned" src="https://user-images.githubusercontent.com/95465072/206376155-02086ff7-f61f-4dc4-b177-7747db4c0369.png">
 
 
@@ -162,7 +168,10 @@ sudo /usr/bin/ruby /opt/update_dependencies.rb
 ```
 ![1__MagsGJeINwnESjf6izVUw.webp](https://cdn.hashnode.com/res/hashnode/image/upload/v1670008869699/1561e141-d42b-4bcb-b571-1d08c7ef21f3.webp?auto=compress,format&format=webp)
 
-## Congragulations You got the root access!!
+&nbsp;
+&nbsp;
+
+# Congragulations You got the root access!!
 
 **USER FLAG**
 ```75fb440c0ef7fd22c28ffec3958c53a2```
