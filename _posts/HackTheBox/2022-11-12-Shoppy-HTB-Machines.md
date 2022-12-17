@@ -7,7 +7,8 @@ tags: [write up, hackthebox, ctf, easy, walkthrough, web, http, sqli, docker, gt
 ---
 
 -------------------
-![HackTheBox Writeup: Shoppy](https://vato.cc/content/images/size/w1200/2022/09/shoppy_logo.png)
+
+![Shoppy Walkthrough](https://user-images.githubusercontent.com/95465072/208251441-d736be8b-c137-42f1-a5ce-34669d343e8b.jpg)
 
 
 ## Reconnaissance
