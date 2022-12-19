@@ -9,7 +9,8 @@ tags: [pdfkit, web, http, hackthebox, ctf, easy, walkthrough, precious] # TAG na
 
 -------------------
 
-<img width="585" alt="pawned" src="https://user-images.githubusercontent.com/95465072/206376155-02086ff7-f61f-4dc4-b177-7747db4c0369.png">
+
+<img width="590" alt="precious-htb" src="https://user-images.githubusercontent.com/95465072/208431959-7e9254d5-7d6b-46f5-8e5f-a257729a6eb2.png">
 
 
 [HackTheBox / Precious - machine!](https://app.hackthebox.com/machines/513)
