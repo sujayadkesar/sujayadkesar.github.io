@@ -1,5 +1,5 @@
 ---
-title: <img width="70" height="70" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209340923-763cc8d2-e9fa-4afb-b2c5-3b7edc1b0851.png"> Precious  | HackTheBox | Easy
+title: <img width="50" height="50" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209340923-763cc8d2-e9fa-4afb-b2c5-3b7edc1b0851.png"> Precious  | HackTheBox | Easy
 date: 2022-10-21 00:00:02 +730
 categories: [Write Up, HackTheBox]
 tags: [pdfkit, web, http, hackthebox, ctf, easy, walkthrough, precious] # TAG names should always be lowercase
