@@ -80,6 +80,17 @@ visit here to generate reverseshell ```https://revshells.com/```
 
 <img width="499" alt="encode-payload" src="https://user-images.githubusercontent.com/95465072/209365053-c4c9850d-d9e9-46e5-8bf7-c547b7a9787a.png">
 
+&nbsp;
+&nbsp;
+
+<img width="497" alt="shell-getting-burp" src="https://user-images.githubusercontent.com/95465072/209367562-c9c94d85-eea0-4735-b5ed-80d220179f68.png">
+
+
+
+
+
+
+
 ## we got a reverse shell!
 
 
