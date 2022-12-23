@@ -1,7 +1,6 @@
-
 ---
-title: <img width="70" height="70" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209355489-9dc22e00-44a6-4aa3-a642-47bfbd5be517.png"> Illumination | HackTheBox | Forensics Chllange
-date: 2022-12-11 00:00:02 +310
+title: <img width="70" height="70" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209355489-9dc22e00-44a6-4aa3-a642-47bfbd5be517.png"> Illumination | HackTheBox | Forensics Challange
+date: 2022-112-11 00:00:02 +310
 categories: [Write Up, HackTheBox]
 tags: [write up, hackthebox, ctf, easy, walkthrough, web, http, sqli, docker, forensics,github,git,json,version-control, shoppy,  machine] # TAG names should always be lowercase
 
