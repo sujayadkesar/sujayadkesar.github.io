@@ -1,5 +1,5 @@
 ---
-title: <img width="70" height="70" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209339137-7cdb2cf0-2ee2-4941-b213-1f796eb4f4ef.png"> Shoppy | HackTheBox | Easy
+title: <img width="50" height="50" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209339137-7cdb2cf0-2ee2-4941-b213-1f796eb4f4ef.png"> Shoppy | HackTheBox | Easy
 date: 2022-11-12 00:00:02 +240
 categories: [Write Up, HackTheBox]
 tags: [write up, hackthebox, ctf, easy, walkthrough, web, http, sqli, docker, gtfobins, shoppy,  machine] # TAG names should always be lowercase
