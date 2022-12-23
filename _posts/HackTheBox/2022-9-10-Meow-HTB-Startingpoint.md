@@ -1,8 +1,9 @@
 ---
-title: Meow Writeup | HackTheBox Easy
+title: <img width="70" height="70" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209341164-f49d4c04-ddbb-4325-a086-1d63fff9c5cf.png"> Meow | HackTheBox Easy
 date: 2022-10-02 00:00:02 +530
 categories: [Write Up, HackTheBox]
 tags: [write up, hackthebox, ctf, easy, walkthrough, meow] # TAG names should always be lowercase
+
 
 
 ---
