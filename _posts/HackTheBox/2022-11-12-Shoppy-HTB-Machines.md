@@ -1,5 +1,5 @@
 ---
-title:  Shoppy walkthrough | HackTheBox | Easy
+title: <img width="70" height="70" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209339137-7cdb2cf0-2ee2-4941-b213-1f796eb4f4ef.png"> Shoppy | HackTheBox | Easy
 date: 2022-11-12 00:00:02 +240
 categories: [Write Up, HackTheBox]
 tags: [write up, hackthebox, ctf, easy, walkthrough, web, http, sqli, docker, gtfobins, shoppy,  machine] # TAG names should always be lowercase
@@ -39,6 +39,8 @@ Nmap done: 1 IP address (1 host up) scanned in 15.92 seconds
 ```
 
 <img width="739" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/208038135-3a3146ef-cbd2-48e8-8cb2-5cdc1b42f948.png">
+
+
 
 &nbsp;
 
