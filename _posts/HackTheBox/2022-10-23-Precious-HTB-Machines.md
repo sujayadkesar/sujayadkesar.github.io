@@ -170,10 +170,10 @@ sudo /usr/bin/ruby /opt/update_dependencies.rb
 # Congragulations You got the root access!!
 
 **USER FLAG**
-```75fb440c0ef7fd22c28ffec3958c53a2```
+```75fb440c0ef7fd22c28f************```
 
 
 **ROOT FLAG**
-```6e8dfa9c1c1968383f0ca545ac57a81a```
+```6e8dfa9c1c1968383f0c************```
 
 ---------------------
