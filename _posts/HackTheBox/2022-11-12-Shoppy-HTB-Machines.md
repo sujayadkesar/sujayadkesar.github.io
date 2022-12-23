@@ -184,7 +184,7 @@ Desktop  Music  ShoppyApp  user.txt
 Documents  Pictures  shoppy_start.sh  Videos
 Downloads  Public  Templates
 jaeger@shoppy:~$ cat user.txt
-3056a9074c4c2bd189e975c1128be6b2
+3056a9074c4c2bd189e9************
 jaeger@shoppy:~$
 ```
 
@@ -226,6 +226,6 @@ docker run -v /:/mnt --rm -it alpine chroot /mnt sh
 # Congragulations!! got the root flag!
 
 ### Root.txt
-```d9dd59daa7341501bb93c854dfe2694b```
+```d9dd59daa7341501bb93c****************```
 <img width="592" alt="shoppy-pawned" src="https://user-images.githubusercontent.com/95465072/208039202-9774e554-d6bf-4691-9210-fdf3d522e7ee.png">
 
