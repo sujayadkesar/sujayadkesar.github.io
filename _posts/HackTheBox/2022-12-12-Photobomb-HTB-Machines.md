@@ -1,5 +1,5 @@
 ---
-title: <img width="50" height="50" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209364309-5c18410b-a7eb-41f6-bdc0-a1c0a6f8f9f4.png"> Photobomb | HackTheBox | Machine
+title: <img width="50" height="50"  src="https://user-images.githubusercontent.com/95465072/209364309-5c18410b-a7eb-41f6-bdc0-a1c0a6f8f9f4.png"> Photobomb | HackTheBox | Machine
 date: 2022-12-12 00:00:02 +240
 categories: [Write Up, HackTheBox]
 tags: [write up, hackthebox, ctf, easy, walkthrough, web, http, photobomb,burpsuite, ssh, injection,  machine] # TAG names should always be lowercase
