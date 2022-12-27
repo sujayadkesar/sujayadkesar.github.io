@@ -1,6 +1,6 @@
 ---
 title: <img width="50" height="50" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209340214-c49c6c63-9e67-4c8c-8165-54e8db4dd0bd.png"> Templated  | HackTheBox | web challenge
-date: 2022-10-21 00:00:02 +730
+date: 2022-12-21 00:00:02 +730
 categories: [Write Up, HackTheBox , Challenges]
 tags: [ web, http, hackthebox, ctf, easy, walkthrough, challenge,server side template injection ] # TAG names should always be lowercase
 
