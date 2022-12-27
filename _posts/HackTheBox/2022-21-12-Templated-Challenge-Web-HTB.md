@@ -37,7 +37,10 @@ notice that the website return us the exact text of what page or folder we searc
 
 ## SERVER SIDE TEMPLATE INJECTION 
 
-Based on the user’s URL, the website will directly copy the content and print the result in HTML back to the user. This allows the reusability of HTML templates and renders based on the variable.
+
+
+Based on the user’s URL, the website will directly copy the content and print the result in HTML back to the user. This allows the reusability of HTML templates and renders based on the variable
+
 
 
 ```
