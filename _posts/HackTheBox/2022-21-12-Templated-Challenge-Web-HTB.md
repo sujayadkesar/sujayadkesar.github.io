@@ -4,8 +4,6 @@ date: 2022-10-21 00:00:02 +730
 categories: [Write Up, HackTheBox , Challenges]
 tags: [ web, http, hackthebox, ctf, easy, walkthrough, challenge,server side template injection ] # TAG names should always be lowercase
 
-
-
 ---
 
 -------------------
@@ -35,8 +33,9 @@ notice that the website return us the exact text of what page or folder we searc
 
 <img width="473" alt="3rd-something" src="https://user-images.githubusercontent.com/95465072/208750523-c6bbd8a7-f16a-4af4-afd6-933d57a209f0.png">
 
-&nbsp;
-&nbsp;
+
+## SERVER SIDE TEMPLATE INJECTION
+
 Based on the user’s URL, the website will directly copy the content and print the result in HTML back to the user. This allows the reusability of HTML templates and renders based on the variable
 ```
 <h1>Welcome to the page!</h1>
