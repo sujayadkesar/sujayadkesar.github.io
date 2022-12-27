@@ -23,7 +23,7 @@ timezone: Asia/Kolkata
 
 title: SUJAY_ADKESAR # the main title
 
-tagline: HackThebox / TryHackme # it will display as the sub-title
+tagline: HackThebox / TryHackme  Btech in cybersecurity & cyberforensics # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   walkthrough / Tryhackme
