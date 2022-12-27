@@ -6,5 +6,5 @@ tags: [guide, commands, linux,book,linux basics to advanced,] # TAG names should
 ---
 
 
-
-[linux basics to advanced.pdf](https://github.com/sujayadkesar/sujayadkesar.github.io/files/10307544/linux.basics.to.advanced.pdf)
+# Testing
+<!-- [linux basics to advanced.pdf](https://github.com/sujayadkesar/sujayadkesar.github.io/files/10307544/linux.basics.to.advanced.pdf) -->
