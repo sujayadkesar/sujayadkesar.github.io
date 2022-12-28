@@ -26,12 +26,8 @@ notice that the website return us the exact text of what page or folder we searc
 
 <img width="473" alt="3rd-something" src="https://user-images.githubusercontent.com/95465072/208750523-c6bbd8a7-f16a-4af4-afd6-933d57a209f0.png">
 
-## Server side template injection
-&nbsp;
-```
-<h1>Welcome to the page!</h1>
-<u>This page {{page_searched}} is not available</u>
-```
+<img width="635" alt="image" src="https://user-images.githubusercontent.com/95465072/209841688-81c5260f-a3e6-4072-bff1-897571306c34.png">
+
 
 ## Time to Exploit!
 
