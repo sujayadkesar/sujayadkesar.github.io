@@ -22,8 +22,7 @@ I tried to look at the source code by inspecting elements but there is nothing i
 <img width="415" alt="serverinfo 2nd image" src="https://user-images.githubusercontent.com/95465072/208750487-b3f56baa-e5cc-4e68-81d6-66c0c395a3c2.png">
 
 ## Bit close look
-notice that the website return us the exact text of what page or folder we searched. This relates to a common vulnerability on Jinja2 which is called Server-Side Template Injection (SSTI) which is just nice to the hint shown on the 1st page in Fig 3 as well as the challenge’s name which is Templated. 
-
+notice that the website return us the exact text of what page or folder we searched. This relates to a common vulnerability on Jinja2 which is called Server-Side Template Injection (SSTI) which is just nice to the hint shown on the 1st page in Fig 3 as well as the challenge’s name which is Templated
 <img width="473" alt="3rd-something" src="https://user-images.githubusercontent.com/95465072/208750523-c6bbd8a7-f16a-4af4-afd6-933d57a209f0.png">
 
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/95465072/209841688-81c5260f-a3e6-4072-bff1-897571306c34.png">
