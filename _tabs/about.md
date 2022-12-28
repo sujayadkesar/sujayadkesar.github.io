@@ -4,26 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
-
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<title>Utkar5hM</title>
-
-	<link rel="icon" href="/favicon.ico" type="image/png" />
-
-	<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
-	
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
-	<link rel="stylesheet" href="/assets/about/abt-styles.css">
-</head>
-<body>
-	<main>
-		<h1 align="center">01101000 01101001 There 👋, I'm SUJAY ADKESAR</h1>
+<h1 align="center">01101000 01101001 There 👋, I'm SUJAY ADKESAR</h1>
 <h3 align="center">A Seasoned Web application penetration tester. Thursty to learn and explore new technologies and share the knowledge back to the community. Currently I am pursuing my b tech in cybersecurity and cyberforensics</h3>
 
 
@@ -43,9 +24,7 @@ order: 4
 
 <a href="https://instagram.com/SUJAY_ADKESAR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay" height="30" width="40" /></a>
 &nbsp;&nbsp;
-	</main>
-</body>
-</html>
+
 
 
 
